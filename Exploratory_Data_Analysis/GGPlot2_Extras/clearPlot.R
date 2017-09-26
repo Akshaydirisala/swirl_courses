@@ -1,2 +1,2 @@
-try(dev.off(),silent=TRUE)
+try(dev.off(),silent=T)
 plot.new()
